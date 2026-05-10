@@ -77,3 +77,10 @@ Provides dataset preview and download option.
 
 ```bash
 python -m pip install streamlit pandas plotly
+
+
+
+
+# ❤️ Developed By
+
+Ragini Parihar
